@@ -1,0 +1,1 @@
+<a target="_blank" href="http://www.dshini.net/de/spage/07e7f360-8bcd-9034-7d86-750d60d94234"><img src="dunkelziffer.gif" border="0" ALT="F&uuml;r das Wohl der Kinder">></a>

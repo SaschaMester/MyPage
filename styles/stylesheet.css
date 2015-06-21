@@ -1,0 +1,146 @@
+body {
+  background: #FFF7E3;
+  font-family:Courier New;
+  font-size:15px;
+  color:#000000;
+  MARGIN:15 px 0;
+  
+  
+}
+
+img:hover {
+  border:1px solid #AA1122;
+}
+
+img.protected:hover {
+  display:none;
+ }
+
+#navigation {
+  width:140px;
+  color:#AA1122;  
+    float:left;
+    margin:10px 5;
+    background:#FEE9C0;
+    FONT-FAMILY:Courier New;
+    FONT-WEIGHT:bold;
+    FONT-SIZE:15px;
+  BORDER: 1px solid #AA1122;
+  TEXT-ALIGN:center;
+  
+}
+
+#inhalte {
+  BACKGROUND-COLOR:#FCE2BC;
+  width:65.5%;
+  margin:10px 5;
+  MARGIN-LEFT: 10px;
+  float: left;
+  FONT-FAMILY:Courier New;
+  FONT-SIZE:15px;
+  COLOR:#000000;
+  text-align:center;
+  BORDER: 2px solid #00AAFA;
+  FONT-WEIGHT:bold;
+
+}
+
+
+#rechts {
+   BACKGROUND-COLOR:#FEE9C0;
+   COLOR:#000000;
+   FONT-FAMILY:Comic Sans MS;
+   FONT-WEIGHT:bold;
+   
+   SIZE:auto;
+   
+   width:15%;
+   margin:10px 5;
+   FLOAT:right; 
+   BORDER: 2px solid #FFFFAA;
+   TEXT-ALIGN:center;
+   BORDER: 1px solid #AA1122;
+}
+
+h1 {
+  font-size:16px;
+  BACKGROUND-COLOR:#FEE9C0;
+  margin:0;
+  text-decoration:underline;
+  font-family:Courier New;
+  TEXT-ALIGN:center;
+}
+h2 {
+  FONT-SIZE:10px; 
+  MARGIN:0; 
+  TEXT-DECORATION:none;
+  TEXT-ALIGN:center;
+  BACKGROUND-COLOR:#FED9B1;
+}
+
+refrain {
+  font-size:16px;
+  font-family: Courier New;
+  margin:10px 5;
+  text-decoration:none;
+}
+
+backlink {
+  FONT-WEIGHT:bold;
+  MARGIN:15 px 6;
+  
+}
+
+.rot {
+  COLOR:#FE0000;
+  
+}
+a.backlink:link {
+  color:#FF0000;
+  FONT-WEIGHT:bold;
+  TEXT-DECORATION:none;
+  TEXT-TRANSFORM:uppercase;
+}
+
+a.backlink:visited {
+  color:#FF0000;
+  FONT-WEIGHT:bold;
+  FONT-FAMILY:Courier New;
+  TEXT-DECORATION:none;
+  TEXT-TRANSFORM:uppercase;
+}
+
+a.backlink:hover {
+  color:#0000FF;
+  FONT-WEIGHT:bold;
+  FONT-FAMILY:Courier New;
+  TEXT-DECORATION:none;
+  TEXT-TRANSFORM:uppercase;
+}
+
+a.backlink:active {
+  color:#FF0000;
+  FONT-WEIGHT:bold;
+  FONT-FAMILY:Courier New;
+  TEXT-DECORATION:overline. underline;
+  TEXT-TRANSFORM:uppercase;
+}
+a.prank {
+  COLOR:#AA1122;
+}
+
+a:link {
+  COLOR:#646464;
+  
+}
+
+
+a:visited {
+  COLOR:#646464;
+
+}
+
+a:active {
+  COLOR:#646464;
+}
+

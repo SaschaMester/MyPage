@@ -1,0 +1,7 @@
+ErrorDocument 403 "http://brokensoul1979.cwsurf.de/errors/403.html"
+ErrorDocument 404 "http://brokensoul1979.cwsurf.de/errors/404.html"
+ErrorDocument 500 "http://brokensoul1979.cwsurf.de/errors/500.html"
+
+
+deny from 186.145.117.114 
+

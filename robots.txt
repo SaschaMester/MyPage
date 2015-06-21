@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+Disallow: /banner/
+Disallow: /downloads/
+Disallow: /errors/
+Disallow: /gedichte/
+Disallow: /jpg/
+Disallow: /kuschelnderbaer/
+Disallow: /static/
+Disallow: /styles/
+Disallow: /www/
